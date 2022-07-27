@@ -18,10 +18,7 @@ The famous mobile crossing road game is now ready in python. Though it looks way
 ## How to run the game?
 - Download all the files (You can download in zip)
 - Have any Python 3.xx installed
-- Run the main files (python main.py in terminal)
-
-## Further Improvements
-- Need to avoid error after the program ends
+- Run the main files (python main.py in terminal
 
 ## Acknowledgement
 [Angela Yu's 100 Days of Python Course](https://www.udemy.com/course/100-days-of-code/)
